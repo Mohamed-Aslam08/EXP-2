@@ -67,15 +67,7 @@ tabulation for load test:
 
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/60bc45f5f96e10f2ab04d8321ffc24435f7692da/Screenshot%202026-10-21%20212056.png)
 
-
-
-
 Model graph:
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/10c8831887abcc04b603d8d11dcf967b8c72bf8a/Screenshot%202026-10-21%20212115.png)
-
-
-
- 
 Result:
-
 The load test on separately excited generators and to obtain the characteristics was verified.
