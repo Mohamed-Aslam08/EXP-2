@@ -52,6 +52,9 @@ open circuit characteristics:
 
 Tabulation for open circuit Test:
 
+![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/010f339c6da1548c763fbace5e054130b358dffb/Screenshot%202026-10-21%20205955.png)
+
+
 Model graph:
 
   
