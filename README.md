@@ -69,7 +69,7 @@ Tabulation for load test:
 
 
 Model graph:
-![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/41b869231d5eec74ba7f668ceab2d2ab4b41b935/Screenshot%202026-10-21%20214325.png)
+![model graph](https://github.com/Mohamed-Aslam08/EXP-2/blob/41b869231d5eec74ba7f668ceab2d2ab4b41b935/Screenshot%202026-10-21%20214325.png)
 
 
 Result:
