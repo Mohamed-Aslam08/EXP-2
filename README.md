@@ -57,6 +57,7 @@ Tabulation for open circuit Test:
 
 Model graph:
 
+![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/7cddfb2fb2d5cca276fffae066f027dcd0aabc94/Screenshot%202026-10-21%20210007.png)
   
 Load Characteristics:
 
