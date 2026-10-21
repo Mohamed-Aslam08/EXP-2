@@ -63,10 +63,6 @@ Load Characteristics:
 
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/1940afa230045755cf6b7e3662356c6358d4e342/Screenshot%202026-10-21%20212024.png)
 
-tabulation for load test:
-
-![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/60bc45f5f96e10f2ab04d8321ffc24435f7692da/Screenshot%202026-10-21%20212056.png)
-
 Model graph:
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-2/blob/10c8831887abcc04b603d8d11dcf967b8c72bf8a/Screenshot%202026-10-21%20212115.png)
 Result:
